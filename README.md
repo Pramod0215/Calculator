@@ -2,7 +2,7 @@
 
 This is simple calculator. 
 
-##Function
+## Function
 Addition, Substraction, Multiply, divsion, Reset
 
 How to download repo
