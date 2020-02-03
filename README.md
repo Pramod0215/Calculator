@@ -23,4 +23,4 @@ npm start
 
 ## Images
 
-![](https://github.com/Pramod0215/Sudoku/blob/master/image/Screenshot%20from%202020-02-01%2016-13-30.png)<br></br>
+![Calculator](https://github.com/Pramod0215/Calculator/blob/master/Image/Screenshot%20from%202020-02-03%2010-45-41.png)<br></br>
